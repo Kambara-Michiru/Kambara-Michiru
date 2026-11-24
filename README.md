@@ -2,10 +2,12 @@
 
 **Cognitive science × AI engineering.** I study how people decide when to accept or reject advice from AI, and I build tools that help people act on what they mean to do.
 
+🌐 **Portfolio:** [kambara-michiru.github.io/mypage](https://kambara-michiru.github.io/mypage/)
+
 - 🎓 Kyoto University, Faculty of Integrated Human Studies (Cognitive Informatics) · Exchange student at the University of Washington (2025–)
 - 🔬 Undergraduate thesis: when people accept or reject advice from AI in decision-making
 - 🤖 Member of [KaiRA](https://github.com/kyoto-kaira), the Kyoto University AI Research Association (2024–): RAG, agentic AI, multi-agent RL
-- 🗣️ Competitive English debater who reached the World Universities Debating Championship (WUDC). I learned English entirely in Japan.
+- 🗣️ Competitive English debater who reached the World Universities Debating Championship (WUDC).
 
 ---
 
@@ -39,6 +41,6 @@ I write about AI, attention and technology that cares for people on [Medium](htt
 
 #### 📫 Contact
 
-[LinkedIn](https://www.linkedin.com/in/michiru-kambara-05b1a4380/)
+🌐 [Portfolio](https://kambara-michiru.github.io/mypage/) · [LinkedIn](https://www.linkedin.com/in/michiru-kambara-05b1a4380/)
 
 <sub>🇯🇵 京都大学 総合人間学部。認知科学とAIのあいだで「人のそばにあるあたたかいテクノロジー」をつくっています。</sub>
